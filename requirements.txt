@@ -1,0 +1,12 @@
+torch
+torchaudio
+pandas
+urllib3
+numpy
+opencv-python
+scikit-image
+matplotlib
+PyWavelets
+chcochleagram @ git+https://github.com/jenellefeather/chcochleagram@master
+pytube
+pydub
